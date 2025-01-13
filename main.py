@@ -4,7 +4,6 @@ import PIL.ImageOps
 from PIL import Image
 import io
 from telebot import types
-import math
 
 TOKEN = '<TOKEN>'
 bot = telebot.TeleBot(TOKEN)
